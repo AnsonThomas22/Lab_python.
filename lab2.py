@@ -1,3 +1,4 @@
+#1
 def module_ListFunction(L):
     print('The maximum value of the list is:', max(L))  
     print('The minimum value of the list is:', min(L))
@@ -23,7 +24,9 @@ def module_ListFunction(L):
    
     print(f"The median is: {t}")
 
+    
 
+#2
 def add_element(s, element):
     s.add(element)
     return s
@@ -66,6 +69,8 @@ def unique_subsets(s):
 
 
 
+
+#3
 def merging_Dict(*args):
     
     merged_dict = {}
